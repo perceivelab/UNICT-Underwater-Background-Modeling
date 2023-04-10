@@ -13,7 +13,7 @@ The ground truth on the underwater video dataset was hand-labeled using the PERL
 
 ### Download dataset
 
-Link to dataset files: https://tinyurl.com/UNICT-Underwater-Bkg-Modeling
+Link to dataset files: https://bit.ly/unict-fish-bkg-modeling
 
 ### Citation
 
